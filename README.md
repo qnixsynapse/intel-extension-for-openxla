@@ -81,7 +81,7 @@ source /opt/intel/oneapi/mkl/2024.0/env/vars.sh
 ### Install Jax and Jaxlib
 
 ```bash
-pip install jax==0.4.25 jaxlib==0.4.25
+pip install jax==0.4.24 jaxlib==0.4.24
 ```
 
 ## 3. Install
